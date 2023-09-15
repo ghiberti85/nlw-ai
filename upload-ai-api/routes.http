@@ -33,5 +33,5 @@ Content-Type: application/json
 {
     "videoId": "d92c9f25-d129-4547-b098-72cc35f739c5",
     "temperature": 0.5,
-    "template": "Gere um resumo sobre o poema As Estrelas de Olavo Bilac. '''{transcription}''' "
+    "prompt": "Gere um resumo sobre o poema As Estrelas de Olavo Bilac. '''{transcription}''' "
 }
